@@ -1,0 +1,94 @@
+[
+    {
+        "id_habitacion":1,
+        "numero_habitacion":1,
+        "capacidad":2,
+        "orientacion":"Poniente",
+        "disponible":true,
+        "registro_reservas":[
+            {
+                "id_registro":1,
+                "fecha_reserva": "2022-03-12",
+                "pasajeros":[
+                    {
+                        "rut":"19134567-9",
+                        "nombre":"Paul",
+                        "apellido":"Lopez"
+                    },
+                    {
+                        "rut":"14134567-9",
+                        "nombre":"Gloria",
+                        "apellido":"Valdes"
+                    }
+                ]
+            },
+            {
+                "id_registro":2,
+                "fecha_reserva": "2022-03-12",
+                "pasajeros":[
+                    {
+                        "rut":"14102367-9",
+                        "nombre":"Matias",
+                        "apellido":"Valdes"
+                    },
+                    {
+                        "rut":"21402367-9",
+                        "nombre":"Ignacio",
+                        "apellido":"Lorca"
+                    }
+                ]
+            }
+
+        ]
+    },
+    {
+        "id_habitacion":2,
+        "numero_habitacion":2,
+        "capacidad":3,
+        "orientacion":"Poniente",
+        "disponible":true,
+        "registro_reservas":[
+           
+        ]
+    },
+    {
+        "id_habitacion":3,
+        "numero_habitacion":3,
+        "capacidad":2,
+        "orientacion":"Oriente",
+        "disponible":true,
+        "registro_reservas":[
+
+        ]
+    },
+    {
+        "id_habitacion":4,
+        "numero_habitacion":4,
+        "capacidad":1,
+        "orientacion":"Poniente",
+        "disponible":true,
+        "registro_reservas":[
+            {
+                "id_registro":1,
+                "fecha_reserva": "2021-03-12",
+                "pasajeros":[
+                    {
+                        "rut":"19134237-9",
+                        "nombre":"Maria",
+                        "apellido":"Dolores"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id_habitacion":5,
+        "numero_habitacion":5,
+        "capacidad":2,
+        "orientacion":"Poniente",
+        "disponible":true,
+        "registro_reservas":[
+
+        ]
+    }
+]

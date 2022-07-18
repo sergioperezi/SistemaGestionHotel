@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "62cba07b105596638459c748"
+  },
+  "id_usuario": 3,
+  "primer_nombre": "Sergio",
+  "segundo_nombre": "Eleazar",
+  "primer_apellido": "Pérez",
+  "segundo_apellido": "Inostroza",
+  "tipo_usuario": "Encargado",
+  "clave": "12345",
+  "nickname": "sperezi"
+},{
+  "_id": {
+    "$oid": "62cba0d4105596638459c749"
+  },
+  "id_usuario": 0,
+  "primer_nombre": "admin",
+  "segundo_nombre": "admin",
+  "primer_apellido": "admin",
+  "segundo_apellido": "admin",
+  "tipo_usuario": "Administrador",
+  "clave": "admin",
+  "nickname": "admin"
+}]
